@@ -12,7 +12,8 @@ An easy-to-use web application to create and customize your resume in real-time.
 ## Demo
 
 You can view a live demo of the Editable Resume Builder here:  
-[Link to demo (e.g., on Netlify or Vercel)](https://example.com)
+editable-resume-builder-khaki.vercel.app
+
 
 ## Installation
 
